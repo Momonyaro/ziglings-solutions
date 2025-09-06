@@ -1,3 +1,16 @@
 .zig-cache/
 zig-out/
 *.o
+/.progress.txt
+/CNAME
+/CONTRIBUTING.md
+/LICENSE
+/README.md
+/build.zig
+/images/ziglings.jpg
+/patches/README.md
+/patches/eowyn.sh
+/patches/frodo.sh
+/patches/gollum.sh
+/test/tests.zig
+/tools/check-exercises.zig
