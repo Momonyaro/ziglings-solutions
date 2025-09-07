@@ -103,10 +103,10 @@ pub fn main() !void {
     };
 
     std.debug.print("Daily Insect Report:\n", .{});
-    for (my_insects) |insect| {
+    inline for (my_insects) |insect| {
         // Almost done! We want to print() each insect with a
         // single method call here.
-        ???
+        insect.print();
     }
 }
 
